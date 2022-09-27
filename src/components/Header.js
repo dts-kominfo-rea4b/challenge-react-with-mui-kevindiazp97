@@ -7,7 +7,9 @@ import React from 'react';
 // Subtitle: Your friendly contact app
 const Header = () => {
   return (
-    <></>
+    <>
+    <h2>Call a Friend</h2>
+    <sub>Your Friendly Contact App</sub></>
   );
 };
 
